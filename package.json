@@ -1,0 +1,1 @@
+{"name":"oxford-support-applications","private":true,"type":"module","scripts":{"build":"node --check public/app.js && node --check api/applications.js"}}
